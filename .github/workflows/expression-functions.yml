@@ -5,7 +5,6 @@ on:
     branches:
       - main
 
-
 jobs:
   expression-functions:
     runs-on: ubuntu-latest
